@@ -1,2 +1,9 @@
 # radio-signal-processing
-GNU Radio communication system 
+GNU Radio communication system :
+- Designed and implemented a digital communication pipeline using GNU Radio
+- Performed GFSK modulation and demodulation
+- Used signal processing blocks like:
+  - Rational Resampler
+  - Multiply Const
+  - Audio Sink
+- Successfully transmitted and reconstructed audio signals
